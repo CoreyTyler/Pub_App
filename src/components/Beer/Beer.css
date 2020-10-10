@@ -1,0 +1,12 @@
+.list_item {
+  border-style: solid;
+  border-color: black;
+  margin: 40px;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+}
+
+.like {
+  justify-content: center;
+}
